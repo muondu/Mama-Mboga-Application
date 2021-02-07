@@ -19,6 +19,7 @@
 - [About the program](#about-the-program)
 - [Problem](#problem)
 - [Solution](#solution)
+- [Features](#features)
 - [Desings](#desings)
 
 - [Technology Used](#technology-used)
@@ -42,8 +43,14 @@ They are many problems facing Mama Mboga but I choose one of the problems which 
 ### Solution
 My solution was to build an app so she can get more customers.
 
-
-
+### Features
+    1. Login
+    2. Shopping list
+    3. Shopping History
+    4. Market Near By.
+    5. Ordering the items
+    6. List of items
+    7. Delivery
 
 ### Desings
 If you want to see the desings, they should be in the ui folder.
