@@ -80,11 +80,11 @@ Add the various things that you are working on.
 
 - [ ] Doing the screens
 - [x] Add a readme
-- [] Dubbing all day
+- [ ] Dubbing all day
 - [x] Eat lunch
 - [x] Building a house in minecraft
 - [x] Praying that this thing works
-- [] What TV
+- [ ] What TV
 - [x] Play some amoung us and be an impostor
 - [ ] Sleep
 
