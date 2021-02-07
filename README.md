@@ -46,13 +46,13 @@ My solution was to build an app so she can get more customers.
 
 
 ### Desings
-If you want to see the desings, they should be in the app file.
+If you want to see the desings, they should be in the ui folder.
 
 #### Running the desings:
     a) Open your Qt desingner
     b) Click open
     c) Direct to which folder you cloned the project
-    d) Enter the app folder.
+    d) Enter the ui folder.
     e) Then click any of the ui files
 
 ### Technology Used
