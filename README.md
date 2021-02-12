@@ -21,8 +21,9 @@
 - [Solution](#solution)
 - [Features](#features)
 - [Desings](#desings)
-
 - [Technology Used](#technology-used)
+- [Screen](#screens)
+
 - [To Do List](#to-do-list)
 - [Contribution](#contribution)
 - [Licence](#license)
@@ -80,6 +81,19 @@ How to run the project:
     a. clone the project and compile it yourself (Most up to date)   
     b. Open your terminal and navigate where your file is.
     c. Write `python3 main.py`
+
+
+### Screen user flow
+#### Main User flow.
+![main_flow](https://user-images.githubusercontent.com/27054010/107797509-11f38680-6d6c-11eb-9631-3bdf03f26123.jpg)
+
+
+#### User flow for picking it yourself
+![picking_yourself_flow](https://user-images.githubusercontent.com/27054010/107797621-2e8fbe80-6d6c-11eb-8aba-9bd8b763412e.jpg)
+
+#### User flow for delelivery
+![delivery_userflow](https://user-images.githubusercontent.com/27054010/107796861-5cc0ce80-6d6b-11eb-8887-d63bf2fceaeb.jpg)
+#### 
 
 ### To Do List
 
